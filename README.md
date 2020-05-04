@@ -1,6 +1,6 @@
 # Initializing Instances
 
-## Learning Goals
+## Learning Goals   
 
 - Create a class in JavaScript using the class keyword
 - Provide a JavaScript class's constructor instantiation data for an instance
